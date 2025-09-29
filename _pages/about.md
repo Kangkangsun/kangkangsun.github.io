@@ -11,11 +11,11 @@ If you are interested in my research direction, please contact me szpsunkk[at]sj
 
 Education
 ======
-* Visiting Scholar, The Chinese University of Hong Kong, Shenzhen, 2025.3-2025.7. Advisor: [Jianwei Huang](https://sse.cuhk.edu.cn/faculty/huangjianwei).
-* Postdoctoral Fellow, Shanghai Jiao Tong University, 2024-2026. Advisors: Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) and [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/).
-* PhD, Shanghai Jiao Tong University, 2020-2024. Advisors: Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) and Prof. [Jun Wu](https://ieeexplore.ieee.org/author/37085386269).
-* M.S., Jilin University, 2017-2020. Advisor: Guoqiang Wang.
-* B.S., Shandong Agricultural University, 2012-2016
+* 2025.3-2025.7, Visiting Scholar, The Chinese University of Hong Kong, Shenzhen. Advisor: [Jianwei Huang](https://sse.cuhk.edu.cn/faculty/huangjianwei).
+* 2024-2026, Postdoctoral Fellow, Shanghai Jiao Tong University. Advisors: Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) and [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/).
+* 2020-2024, PhD, Shanghai Jiao Tong University. Advisors: Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) and Prof. [Jun Wu](https://ieeexplore.ieee.org/author/37085386269).
+* 2017-2020, M.S., Jilin University. Advisor: Guoqiang Wang.
+* 2012-2016, B.S., Shandong Agricultural University
 
 Research Interest
 ======
