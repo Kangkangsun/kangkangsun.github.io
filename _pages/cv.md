@@ -11,16 +11,22 @@ redirect_from:
 
 Education
 ======
-* PhD in Electronic Information, Shanghai Jiao Tong University, 2018
-* M.S. in Mechanical Engineering, Jilin University, 2017
-* B.S. in Agricultural Mechanisation and Automation, Shandong Agricultural University, 2012
+* Visiting Scholar in Computer Science, The Chinese University of Hong Kong, Shenzhen, 2025.3-2025.7. Advisor: Jianwei Huang.
+* Postdoctoral Fellow in Computer Scienece, Shanghai Jiao Tong University, 2024-2026. Advisors: Jianhua Li and Minyi Guo.
+* PhD in Electronic Information, Shanghai Jiao Tong University, 2020-2024. Advisors: Jianhua Li and Jun Wu.
+* M.S. in Mechanical Engineering, Jilin University, 2017-2020. Advisor: Guoqiang Wang.
+* B.S. in Agricultural Mechanisation and Automation, Shandong Agricultural University, 2012-2016
 
 Research Interest
 ======
-* Data Privacy Protection and Security in IoV
-* Distributed Machine Learning Privacy and Security (e.g. Federated Learning, Deep Reinforcement Learning)
-* Large Language Model Privacy and Security
+* Data Privacy Protection and Security in IoV.
+* Distributed Machine Learning Privacy and Security (e.g. Federated Learning, Deep Reinforcement Learning).
+* Large Language Model Privacy and Security.
 * Game Theory and its Applications in IoT and Machine Learning.
+
+Projects
+======
+* National Natural Science Foundation of China Youth Fund Project, Leader, 2026-2028.
   
 Grants & Honors
 ======
