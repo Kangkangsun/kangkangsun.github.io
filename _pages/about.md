@@ -9,7 +9,7 @@ redirect_from:
 
 If you are interested in my research direction, please contact me szpsunkk[at]sjtu.edu.cn.
 
-Education
+Education and Experience
 ======
 * 2025.3-2025.7, Visiting Scholar, The Chinese University of Hong Kong, Shenzhen. Advisor: [Jianwei Huang](https://sse.cuhk.edu.cn/faculty/huangjianwei).
 * 2024-2026, Postdoctoral Fellow, Shanghai Jiao Tong University. Advisors: Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) and [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/).
