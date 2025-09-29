@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr."
+title                    : "Dr. Kangkang Sun"
 title_separator          : "-"
 name                     : &name "Kangkang Sun"
 description              : &description "A four-year student at Shanghai Jiao Tong University"
@@ -25,7 +25,7 @@ author:
   avatar           : "kangkangsun2.png"
   name             : "Kangkang Sun"
   pronouns         : # example: "she/her"  
-  bio              : "A four-year student in Shanghai Jiao Tong University"
+  bio              : "Postdoctoral Researcher, School of Computer Science, Shanghai Jiao Tong University"
   location         : "Shanghai"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
@@ -211,7 +211,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -223,7 +223,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
