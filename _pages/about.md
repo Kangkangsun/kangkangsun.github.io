@@ -7,9 +7,51 @@ redirect_from:
   - /about.html
 ---
 
-# A Short Introduction
-I'm a postdoctoral researcher under the supervision of Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) , [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/) and [Jun Wu](https://ieeexplore.ieee.org/author/37085386269) at Shanghai Jiao Tong University. My major is Electronic Information at the Institute of Cyber Science and Technology in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China. In the PhD period, I focus on  the security of IoV and IoT, Data Security, Digital Twin (DT), and Distributed Machine Learning Security, including Federated Learning (FL), Deep Reinforcement Learning (DRL), Game Theory, etc.
-
 If you are interested in my research direction, please contact me szpsunkk[at]sjtu.edu.cn.
 
+Education
+======
+* Visiting Scholar, The Chinese University of Hong Kong, Shenzhen, 2025.3-2025.7. Advisor: [Jianwei Huang](https://sse.cuhk.edu.cn/faculty/huangjianwei).
+* Postdoctoral Fellow, Shanghai Jiao Tong University, 2024-2026. Advisors: Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) and [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/).
+* PhD, Shanghai Jiao Tong University, 2020-2024. Advisors: Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) and Prof. [Jun Wu](https://ieeexplore.ieee.org/author/37085386269).
+* M.S., Jilin University, 2017-2020. Advisor: Guoqiang Wang.
+* B.S., Shandong Agricultural University, 2012-2016
 
+Research Interest
+======
+* Data Privacy Protection and Security in IoV.
+* Distributed Machine Learning Privacy and Security (e.g. Federated Learning, Deep Reinforcement Learning).
+* Large Language Model Privacy and Security.
+* Game Theory and its Applications in IoT and Machine Learning.
+
+Projects
+======
+* National Natural Science Foundation of China Youth Fund Project, Leader, 2026-2028.
+  
+Grants & Honors
+======
+* 2022, Campus-level Outstanding Graduation Paper **Top: 5%**
+* 2021, Provincial Outstanding Graduates **Top: 3%**
+* 2017-2020, Academic scholarships (RMB 50,000) **Top: 3%**
+* 2020, Postgraduate National Scholarships (RMB 20,000) **Top: 0.2%**
+* 2017-2020, Student Scholarship (three times) (RMB 8,000) **Top: 10%**
+* 2016, Outstanding Graduates **Top: 10%**
+* 2016, Campus-level Outstanding Graduation Paper **Top: 5%**
+* 2012-2016, Student Scholarship (three times) (RMB 24,000) **Top: 5%**
+* 2016, Freshman Innovation and Entrepreneurship Mentor **Top: 5%**
+* 2015, Shandong Province Student Electronic Design Competition, Second Prize **Top: 10%**
+* 2015, School-level Science and Technology Innovation Single Award (RMB 5,000) **Top: 10%**
+* 2014, Electronic Design Competition, First Prize **Top: 1%**
+* 2013, Shandong Hengnuo Innovation Practice Advanced Individual Award **Top: 10%**
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
