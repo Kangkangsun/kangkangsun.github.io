@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-If you are interested in my research direction, please contact me (Email:szpsunkk[at]sjtu.edu.cn).
+If you are interested in my research direction, please contact me, *szpsunkk[at]sjtu.edu.cn* ;-).
 
 Education and Experience
 ======
