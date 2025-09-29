@@ -8,11 +8,8 @@ redirect_from:
 ---
 
 # A Short Introduction
-I'm a PhD student under the supervision of Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) and [Jun Wu](https://ieeexplore.ieee.org/author/37085386269) at Shanghai Jiao Tong University. My major is Electronic Information at the Institute of Cyber Science and Technology in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China. In the PhD period, I focus on  the security of IoV and IoT, Data Security, Digital Twin (DT), and Distributed Machine Learning Security, including Federated Learning (FL), Deep Reinforcement Learning (DRL), Game Theory, etc.
+I'm a postdoctoral researcher under the supervision of Prof. [Jianhua Li](https://infosec.sjtu.edu.cn/TeamDetail.aspx?id=9) , [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/) and [Jun Wu](https://ieeexplore.ieee.org/author/37085386269) at Shanghai Jiao Tong University. My major is Electronic Information at the Institute of Cyber Science and Technology in the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China. In the PhD period, I focus on  the security of IoV and IoT, Data Security, Digital Twin (DT), and Distributed Machine Learning Security, including Federated Learning (FL), Deep Reinforcement Learning (DRL), Game Theory, etc.
 
-I finished my master's degree at Jilin University in 2020, under the supervision of Prof. [Guoqiang Wang](https://teachers.jlu.edu.cn/wgq), majoring in Mechanical Engineering. In this period, I mainly focus on Mechanical Design and Optimisation, Autonomous Driving, UAV Path Planning, etc.
+If you are interested in my research direction, please contact me szpsunkk[at]sjtu.edu.cn.
 
 
-# For More Informaiton
-
-More info about Kangkang Sun can be found in [CV English Web](http://kangkangsun.work/me/resources/Kangkangsun%20CV.pdf), [CV English Download](https://ghproxy.com/github.com/szpsunkk/kangkangsun/blob/master/files/Kangkangsun%20CV.pdf) and [CV Chinese Web](http://kangkangsun.work/me/resources/Kangkangsun%20CV_c.pdf) [CV Chinese Download](https://ghproxy.com/github.com/szpsunkk/kangkangsun/blob/master/files/Kangkangsun%20CV.pdf_c.pdf).
